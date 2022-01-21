@@ -1,0 +1,19 @@
+footer {
+    padding: 40px;
+    background-color: #272a2c;
+    bottom: 0;
+    margin-top:auto;
+}
+
+a {
+    margin-left: 60px;
+}
+
+#link {
+    float: left;
+}
+
+#copyright {
+    float: right;
+    color: #f4f4f4;
+}
